@@ -7,4 +7,4 @@
 ## Internship Experience
 ## Project Experience
 * [心情溫度計與資料分析](https://github.com/hsuehhsintzu/mental-health)
-* [睡眠紀錄與睡眠時數預測]
+* [睡眠紀錄與睡眠時數預測](https://github.com/hsuehhsintzu/sleeping-recorder.git)
