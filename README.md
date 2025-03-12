@@ -14,5 +14,5 @@
 * [睡眠紀錄與睡眠時數預測](https://github.com/hsuehhsintzu/sleeping-recorder.git)
 * [分子量計算器]
 * [成績紀錄]
-* [大老二動態模擬及視覺化]
+* [大老二動態模擬及視覺化](https://github.com/hsuehhsintzu/game)
 * [多項式函數作圖]
